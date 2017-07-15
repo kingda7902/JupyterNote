@@ -4,9 +4,9 @@
 
 ### 努力完成中
 > 1. crawler for ptt_techjobs
-  1. 104api分析
-  1. tensorflow 安裝&測試
-  1. pymongodb
+> 1. 104api分析
+> 1. tensorflow 安裝&測試
+> 1. pymongodb
 
 
 
